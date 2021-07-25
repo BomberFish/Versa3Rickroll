@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "c2ef7e49-714d-46e3-879b-b8e6ed354955",
+    "appType": "app",
+    "appDisplayName": "Rickroll",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Rickroll"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
